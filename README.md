@@ -94,7 +94,7 @@ This project showcases a wide range of technical and analytical skills essential
 
 ```bash
 # 1️⃣ Clone this repository
-git clone https://github.com/<your-username>/crypto-volatility-prediction.git
+git clone https://github.com/amankumar76/crypto-volatility-prediction.git
 cd crypto-volatility-prediction
 
 # 2️⃣ Install dependencies
