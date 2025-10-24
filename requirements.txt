@@ -1,0 +1,21 @@
+# === Cryptocurrency Volatility Prediction Project ===
+# Python dependencies
+
+# Core Libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Data Visualization
+matplotlib==3.9.0
+
+# Machine Learning
+scikit-learn==1.5.1
+joblib==1.4.2
+
+# Optional (for deployment or data exploration)
+streamlit==1.38.0
+seaborn==0.13.2
+
+# Jupyter / Notebook Support
+ipykernel==6.29.5
+notebook==7.2.1
